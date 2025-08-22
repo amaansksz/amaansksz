@@ -39,4 +39,4 @@
 
 ## 📫 Connect
 - Email: amaansksz@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/amaan-shaikh-91b420321/
+- LinkedIn: https://www.linkedin.com/in/amaansksz/
