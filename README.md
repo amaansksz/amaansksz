@@ -54,7 +54,7 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=dracula)
 
 ---
 
