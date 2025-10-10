@@ -53,10 +53,10 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ##  GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=amaansksz&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amaansksz&theme=tokyo-night)
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=sales&theme=tokyonight)](https://github.com/amaansksz/sales)
