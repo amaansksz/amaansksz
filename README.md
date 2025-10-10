@@ -54,7 +54,14 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=merko)
+![trophy](https://github-profile-trophy.vercel.app/?username=amaansksz&theme=onedark)
+![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=flat)
+![Amaan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaansksz&theme=tokyo-night)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan!;Data+Analyst+%7C+ML+Learner+%7C+Python+Developer;Always+Learning,+Always+Improving!)](https://git.io/typing-svg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
+
+
 
 ---
 
