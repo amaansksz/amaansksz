@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan+Shaikh!;Data+Analyst+%7C+Python+Developer+%7C+ML+Learner;Always+Exploring,+Always+Improving!)](https://git.io/typing-svg)
 # Hi, I'm Amaan Shaikh 👋
 
 * **B.E. in Computer Engineering (Mumbai University)** with a passion for turning raw data into actionable business insights.
@@ -6,7 +7,7 @@
 
 ---
 
-## 📊 About Me
+## About Me
 
 I am a recent engineering graduate driven by a curiosity for solving problems with data. My project-based experience includes performing deep-dive sales analysis with SQL, building interactive BI dashboards, and leveraging APIs for real-time data collection. I thrive on exploring complex datasets to uncover trends and patterns that can inform strategic decisions.
 
@@ -16,7 +17,7 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 * **Data Analysis & Visualization:**
     * SQL (MySQL)
@@ -31,19 +32,17 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ---
 
-## 🚀 Featured Data Projects
-
-### 1. Walmart Sales Analysis
+## Featured Data Projects
+###  [Walmart Sales Analysis](https://github.com/amaansksz/walmart_sales)
 * **Description:** Performed a comprehensive Exploratory Data Analysis (EDA) on a Walmart sales dataset to identify key performance indicators and answer critical business questions regarding branch performance, customer behavior, and profitability.
 * **Skills:** `Advanced SQL`, `Window Functions`, `CTEs`, `Data Analysis`.
-* **[Link to Repository](https://github.com/amaansksz/walmart_sales)**
 
-### 2. Sales Performance Dashboard
+###  [Sales Performance Dashboard](https://github.com/amaansksz/sales)
 * **Description:** Developed a dynamic, interactive sales dashboard in a BI tool to visualize key metrics such as total revenue, profit margins, and regional performance. The dashboard allows for intuitive filtering and drill-down analysis.
 * **Skills:** `Power BI`, `Data Visualization`, `Dashboarding`, `Business Intelligence`.
 * **[Link to Repository](https://github.com/amaansksz/sales)**
 
-### 3. Real-Time Weather Data App
+###  [Real-Time Weather Data App](https://github.com/amaansksz/weather)
 * **Description:** Built a Python application that fetches and processes real-time weather data from an external API. This project demonstrates skills in data acquisition, API handling, and data automation.
 * **Skills:** `Python`, `APIs`, `Data Collection`, `Automation`.
 * **[Link to Repository](https://github.com/amaansksz/weather)**
@@ -52,20 +51,22 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=merko)
-![trophy](https://github-profile-trophy.vercel.app/?username=amaansksz&theme=onedark)
 ![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=flat)
-![Amaan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amaansksz&theme=tokyo-night)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan!;Data+Analyst+%7C+ML+Learner+%7C+Python+Developer;Always+Learning,+Always+Improving!)](https://git.io/typing-svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=amaansksz&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amaansksz&theme=tokyo-night)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=sales&theme=tokyonight)](https://github.com/amaansksz/sales)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=weather&theme=tokyonight)](https://github.com/amaansksz/weather)
 
 
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
-* **Email:** `amaansksz@gmail.com`
-* **LinkedIn:** [linkedin.com/in/amaansksz](https://www.linkedin.com/in/amaansksz/)
+**Email:** [amaansksz@gmail.com](mailto:amaansksz@gmail.com)  
+**LinkedIn:** [linkedin.com/in/amaansksz](https://www.linkedin.com/in/amaansksz/) 
