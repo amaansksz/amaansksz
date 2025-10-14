@@ -59,7 +59,7 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 
 ##  GitHub Stats
 
-<!--![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=tokyonight)-->
+![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=tokyonight)
 
 
