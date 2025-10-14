@@ -12,7 +12,7 @@
 I am a recent engineering graduate driven by a curiosity for solving problems with data. My project-based experience includes performing deep-dive sales analysis with SQL, building interactive BI dashboards, and leveraging APIs for real-time data collection. I thrive on exploring complex datasets to uncover trends and patterns that can inform strategic decisions.
 
 * **Currently building projects with:** SQL, Python (Pandas, Matplotlib), and Power BI.
-* ** What I'm Currently Learning:** I’m currently deepening my expertise in DSA and exploring Machine Learning model deployment along with some other skill developments.
+* **What I'm Currently Learning:** I’m currently deepening my expertise in DSA and exploring Machine Learning model deployment along with some other skill developments.
 * **Key Interests:** Exploratory Data Analysis (EDA), Data Cleaning, Dashboarding, and finding the "story" behind the data.
 * **My Goal:** To deliver clean, insightful analysis and grow into a key contributor in the data science field.
 
