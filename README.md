@@ -12,6 +12,7 @@
 I am a recent engineering graduate driven by a curiosity for solving problems with data. My project-based experience includes performing deep-dive sales analysis with SQL, building interactive BI dashboards, and leveraging APIs for real-time data collection. I thrive on exploring complex datasets to uncover trends and patterns that can inform strategic decisions.
 
 * **Currently building projects with:** SQL, Python (Pandas, Matplotlib), and Power BI.
+* ** What I'm Currently Learning:** I’m currently deepening my expertise in DSA and exploring Machine Learning model deployment along with some other skill developments.
 * **Key Interests:** Exploratory Data Analysis (EDA), Data Cleaning, Dashboarding, and finding the "story" behind the data.
 * **My Goal:** To deliver clean, insightful analysis and grow into a key contributor in the data science field.
 
@@ -46,6 +47,11 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 * **Description:** Built a Python application that fetches and processes real-time weather data from an external API. This project demonstrates skills in data acquisition, API handling, and data automation.
 * **Skills:** `Python`, `APIs`, `Data Collection`, `Automation`.
 * **[Link to Repository](https://github.com/amaansksz/weather)**
+* 
+###  [Global Layoffs Analysis](https://github.com/amaansksz/layoffs)
+* **Description:** Conducted an in-depth exploratory data analysis (EDA) on a global layoffs dataset using SQL. This project involved extensive data cleaning, complex querying with advanced functions (CTEs, Window Functions), and the extraction of actionable business insights from historical layoff trends.
+* **Skills:** `SQL`, `MySQL`, `Data Cleaning`, `EDA`.
+* **[Link to Repository](https://github.com/amaansksz/layoffs)**
 
 *(Detailed `README.md` files are available in each project's repository.)*
 
