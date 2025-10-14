@@ -67,6 +67,7 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=sales&theme=tokyonight)](https://github.com/amaansksz/sales)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=weather&theme=tokyonight)](https://github.com/amaansksz/weather)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=layoffs&theme=tokyonight)](https://github.com/amaansksz/layoffs)
 
 
 
