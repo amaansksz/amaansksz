@@ -47,7 +47,7 @@ I am a recent engineering graduate driven by a curiosity for solving problems wi
 * **Description:** Built a Python application that fetches and processes real-time weather data from an external API. This project demonstrates skills in data acquisition, API handling, and data automation.
 * **Skills:** `Python`, `APIs`, `Data Collection`, `Automation`.
 * **[Link to Repository](https://github.com/amaansksz/weather)**
-* 
+  
 ###  [Global Layoffs Analysis](https://github.com/amaansksz/layoffs)
 * **Description:** Conducted an in-depth exploratory data analysis (EDA) on a global layoffs dataset using SQL. This project involved extensive data cleaning, complex querying with advanced functions (CTEs, Window Functions), and the extraction of actionable business insights from historical layoff trends.
 * **Skills:** `SQL`, `MySQL`, `Data Cleaning`, `EDA`.
