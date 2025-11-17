@@ -26,7 +26,7 @@ I focus on SQL-first analysis, Python (Pandas) for transformations and light aut
 ## Skills
 **Core:** SQL · Python (Pandas) · Data Cleaning · EDA · Power BI · Tableau · Excel (Pivot Tables)  
 **Tools:** MySQL · Jupyter Notebook · Git · GitHub · VS Code  
-**Other:** API data ingestion · Basic web scraping · Lightweight ETL pipelines
+**Other:** API data ingestion · Basic web scraping · ETL pipelines
 
 ---
 
