@@ -1,79 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan+Shaikh!;Data+Analyst+%7C+Python+Developer+%7C+ML+Learner;Always+Exploring,+Always+Improving!)](https://git.io/typing-svg)
-# Hi, I'm Amaan Shaikh 👋
-
-* **B.E. in Computer Engineering (Mumbai University)** with a passion for turning raw data into actionable business insights.
-* Skilled in **SQL**, **Python (Pandas)**, and **Business Intelligence (Power BI/Tableau)**.
-* Actively seeking a **Data Analyst** or **BI Analyst** internship/job where I can contribute to a data-driven team.
+# Hi — I’m Amaan Shaikh 👋
+**Computer Engineering graduate | Data Analyst / Junior Data Engineer**  
+Mumbai, India · amaansksz@gmail.com · [LinkedIn](https://www.linkedin.com/in/amaansksz) · [GitHub](https://github.com/amaansksz)
 
 ---
 
-## About Me
+## About me
+I turn messy data into clear, actionable insights. I’m comfortable across the data lifecycle: extracting and cleaning data, building analysis pipelines, and delivering business-friendly dashboards.
 
-I am a recent engineering graduate driven by a curiosity for solving problems with data. My project-based experience includes performing deep-dive sales analysis with SQL, building interactive BI dashboards, and leveraging APIs for real-time data collection. I thrive on exploring complex datasets to uncover trends and patterns that can inform strategic decisions.
+I focus on SQL-first analysis, Python (Pandas) for transformations and light automation, and Power BI / Tableau for visualization. I prefer practical solutions that are fast to build, easy to maintain, and simple to explain.
 
-* **Currently building projects with:** SQL, Python (Pandas, Matplotlib), and Power BI.
-* **What I'm Currently Learning:** I’m currently deepening my expertise in DSA and exploring Machine Learning model deployment along with some other skill developments.
-* **Key Interests:** Exploratory Data Analysis (EDA), Data Cleaning, Dashboarding, and finding the "story" behind the data.
-* **My Goal:** To deliver clean, insightful analysis and grow into a key contributor in the data science field.
+**What I bring:** curiosity, clean code, and a habit of shipping useful analytics.
 
 ---
 
-## Technical Skills
-
-* **Data Analysis & Visualization:**
-    * SQL (MySQL)
-    * Python (Pandas, Matplotlib, Seaborn)
-    * Power BI, Tableau
-    * Excel (Pivot Tables, XLOOKUP)
-* **Programming & Automation:**
-    * Python (Core Language)
-    * APIs, Web Scraping (BeautifulSoup, Selenium)
-* **Databases & Tools:**
-    * MySQL, Git, GitHub, Jupyter Notebook, VS Code
+## Quick highlights
+- Identified **40%** of daily sales concentrated between 10 AM–1 PM in a Walmart sales dataset.  
+- Built a Power BI dashboard that uncovered **25–30%** seasonal Q4 revenue uplift for a sales dataset.  
+- Built a real-time weather ingestion pipeline with insights projected to reduce delivery delays by **15–20%**.  
+- Comfortable with SQL (CTEs, window functions), Pandas, Power BI, and building small ETL scripts.
 
 ---
 
-## Featured Data Projects
-###  [Walmart Sales Analysis](https://github.com/amaansksz/walmart_sales)
-* **Description:** Performed a comprehensive Exploratory Data Analysis (EDA) on a Walmart sales dataset to identify key performance indicators and answer critical business questions regarding branch performance, customer behavior, and profitability.
-* **Skills:** `Advanced SQL`, `Window Functions`, `CTEs`, `Data Analysis`.
-
-###  [Sales Performance Dashboard](https://github.com/amaansksz/sales)
-* **Description:** Developed a dynamic, interactive sales dashboard in a BI tool to visualize key metrics such as total revenue, profit margins, and regional performance. The dashboard allows for intuitive filtering and drill-down analysis.
-* **Skills:** `Power BI`, `Data Visualization`, `Dashboarding`, `Business Intelligence`.
-* **[Link to Repository](https://github.com/amaansksz/sales)**
-
-###  [Real-Time Weather Data App](https://github.com/amaansksz/weather)
-* **Description:** Built a Python application that fetches and processes real-time weather data from an external API. This project demonstrates skills in data acquisition, API handling, and data automation.
-* **Skills:** `Python`, `APIs`, `Data Collection`, `Automation`.
-* **[Link to Repository](https://github.com/amaansksz/weather)**
-  
-###  [Global Layoffs Analysis](https://github.com/amaansksz/layoffs)
-* **Description:** Conducted an in-depth exploratory data analysis (EDA) on a global layoffs dataset using SQL. This project involved extensive data cleaning, complex querying with advanced functions (CTEs, Window Functions), and the extraction of actionable business insights from historical layoff trends.
-* **Skills:** `SQL`, `MySQL`, `Data Cleaning`, `EDA`.
-* **[Link to Repository](https://github.com/amaansksz/layoffs)**
-
-*(Detailed `README.md` files are available in each project's repository.)*
+## Skills
+**Core:** SQL · Python (Pandas) · Data Cleaning · EDA · Power BI · Tableau · Excel (Pivot Tables)  
+**Tools:** MySQL · Jupyter Notebook · Git · GitHub · VS Code  
+**Other:** API data ingestion · Basic web scraping · Lightweight ETL pipelines
 
 ---
 
-##  GitHub Stats
+## Featured projects
 
-![](https://komarev.com/ghpvc/?username=amaansksz&label=Profile+Views&color=blueviolet&style=tokyonight)
+### 🔹 [Walmart Sales Analysis](https://github.com/amaansksz/walmart_sales)  
+SQL + Python | EDA · Window functions · CTEs  
+- Extracted, cleaned and transformed sales data for branch and customer analysis.  
+- Identified peak sales windows (40% of daily sales in 10AM–1PM) and payment-mode trends (~15% higher avg e-wallet spend).  
+- Deliverables: SQL notebooks, analysis queries, and a summary report.
+
+### 🔹 [Sales Performance Dashboard](https://github.com/amaansksz/sales)  
+Power BI | Dashboarding · KPI design  
+- Interactive dashboard for revenue, product and region insights.  
+- Found that USA + India contributed ~70% of volume and a 25–30% Q4 uplift.  
+- Deliverables: Power BI report (.pbix) and supporting data pipeline.
+
+### 🔹 [Real-Time Weather Pipeline & Dashboard](https://github.com/amaansksz/weather)  
+Python · API ingestion · Time-series handling  
+- Ingests live weather & AQI JSON, cleans and pushes structured tables for visualization.  
+- Designed logic used to inform routing decisions; estimated 15–20% reduction in delivery delay when applied.
+
+### 🔹 [Global Layoffs Analysis (EDA)](https://github.com/amaansksz/layoffs)  
+SQL · MySQL · EDA  
+- Cleaned and analyzed layoffs (2020–2023); used joins, grouping, and window functions to extract industry/geography trends.  
+- Deliverables: SQL scripts, dashboards, and insights summary.
+
+---
+
+## Work / contact
+- Portfolio & code: https://github.com/amaansksz  
+- Email: amaansksz@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/amaansksz
+
+---
+
+## GitHub stats
+![Profile views](https://komarev.com/ghpvc/?username=amaansksz&color=blueviolet)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaansksz&layout=compact&theme=tokyonight)
 
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=sales&theme=tokyonight)](https://github.com/amaansksz/sales)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=weather&theme=tokyonight)](https://github.com/amaansksz/weather)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=layoffs&theme=tokyonight)](https://github.com/amaansksz/layoffs)
-
-
-
----
-
-##  Connect With Me
-
-**Email:** [amaansksz@gmail.com](mailto:amaansksz@gmail.com)  
-**LinkedIn:** [linkedin.com/in/amaansksz](https://www.linkedin.com/in/amaansksz/) 
+[![walmart_sales](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=walmart_sales&theme=tokyonight)](https://github.com/amaansksz/walmart_sales)
+[![sales](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=sales&theme=tokyonight)](https://github.com/amaansksz/sales)
+[![weather](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=weather&theme=tokyonight)](https://github.com/amaansksz/weather)
+[![layoffs](https://github-readme-stats.vercel.app/api/pin/?username=amaansksz&repo=layoffs&theme=tokyonight)
