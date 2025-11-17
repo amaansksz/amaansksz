@@ -7,11 +7,17 @@ Mumbai, India · amaansksz@gmail.com · [LinkedIn](https://www.linkedin.com/in/a
 ---
 
 ## About me
-I turn messy data into clear, actionable insights. I’m comfortable across the data lifecycle: extracting and cleaning data, building analysis pipelines, and delivering business-friendly dashboards.
+I’m someone who likes taking a chaotic dataset, cleaning it up, and turning it 
+into something that finally makes sense. SQL is usually where I start, Python and 
+Pandas handle the messy parts, and dashboards are the part I enjoy polishing at the end.
 
-I focus on SQL-first analysis, Python (Pandas) for transformations and light automation, and Power BI / Tableau for visualization. I prefer practical solutions that are fast to build, easy to maintain, and simple to explain.
+I like building small workflows that are clean, simple, and actually maintainable. 
+No over-engineering, no “10 tools for one problem,” just practical solutions that work.
 
-**What I bring:** curiosity, clean code, and a habit of shipping useful analytics.
+Looking for roles in data engineering or analysis where I can work with real data, 
+improve pipelines, and keep leveling up one project at a time.
+
+**What I bring:** curiosity, clean code, and the stubbornness to keep refining a dataset until it finally behaves.
 
 ---
 
