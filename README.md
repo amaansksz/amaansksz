@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan+Shaikh!;Data+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+ETL+Workflows;Always+Learning,+Always+Improving!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Amaan+Shaikh!;Data+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+ETL+Workflows+7C+Dashboards;Always+Learning,+Always+Improving!)](https://git.io/typing-svg)
 
 # Hi — I’m Amaan Shaikh 👋
 **Computer Engineering graduate | Data Analyst / Junior Data Engineer**  
